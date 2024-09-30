@@ -1,15 +1,20 @@
 /* 🦊 Ajoutez tous les styles manquants pour recréer la maquette! */
-h1 {
-  font-size: 60px;
-}
 body {
   font-family: "Silkscreen", monospace;
 }
+h1 {
+  font-size: 60px;
+}
 div {
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  max-width: 460px;
+  height: 162px;
 }
 img {
   display: block;
 }
+
 a {
   color: black;
   font-size: 30px;
