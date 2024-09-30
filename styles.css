@@ -1,5 +1,7 @@
 /* 🦊 Ajoutez tous les styles manquants pour recréer la maquette! */
-
+h1 {
+  font-size: 60px;
+}
 body {
   font-family: "Silkscreen", monospace;
 }
