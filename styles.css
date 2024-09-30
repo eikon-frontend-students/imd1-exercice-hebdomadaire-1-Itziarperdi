@@ -4,6 +4,7 @@ body {
 }
 h1 {
   font-size: 60px;
+  margin: 7px 0px 0px 20px;
 }
 div {
   border-top: 3px solid black;
@@ -13,6 +14,9 @@ div {
 }
 img {
   display: block;
+}
+p {
+  margin: 0px 30px 17px 28px;
 }
 
 a {
